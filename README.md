@@ -4,6 +4,8 @@
 
 Exploration notebook for **Amsterdam Rental Apartments** showing some of the great functionalities of **iPyWidgets** and **PyViz** for the talk that I gave during the first **JupyterAMS Meetup** on February 14th 2019.
 
+Wanna join the next? Checkout the schedule at <a href='https://www.meetup.com/Jupyter-Amsterdam/'>Jupyter AMS Meetup Page</a>.
+
 ## Dependencies
 
 * Pandas
@@ -31,4 +33,3 @@ Check my two stories on the subject at **Towards Data Science**:
 
 * Drop me a line on <a href='www.linkedin.com/in/rafaelpierre'>LinkedIN</a>.
 * You can also follow me at <a href='www.medium.com/@rafaelpierre'>Medium</a>.
-gi
